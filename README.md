@@ -22,7 +22,7 @@ I wanted to bridge the gap between "tutorial code" and building something that a
 **Frontend:** HTML5, CSS3, and Jinja2
 **Logic:** Vanilla JavaScript
 
-5. How to run
+## How to run
 
 Clone the repository:git clone [(https://github.com/Meo-ow0/--Codsoft-android.git)]
 
